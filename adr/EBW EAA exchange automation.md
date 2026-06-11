@@ -2,7 +2,7 @@
 
 **Authors:**
 
-- Toennis Jonas, Puria Dyne, Rune Kjørlaug, Angel, Ssander Dijkhuis, Evmorfili Bbairamidou, Ivan.faltus@bankid.cz, Felix Rosenberg-Gruszczynski, Martin Westerkamp, Nklomp@sphereon.com, filippo@dyne.org, lld@netsmart.gr, Filip Hladky, ANDRIANA PRENTZA, Muhamed Turkanović
+jot@brreg.no, puria@dyne.org, rune@emning.no, angel@ishare.eu, sander.dijkhuis@cleverbase.com, martin.westerkamp@spherity.com, Nklomp@sphereon.com, lld@netsmart.gr, aprentza@unipi.gr, muhamed.turkanovic@um.si
 - Track 3 - Workshop (AMS, 9,10th June)
 
 ## Context
