@@ -36,6 +36,7 @@ Propose new ADRs using the [template](_template.md). Announce them to the [Archi
 27. [Exclusion of Portrait from the WE BUILD PID Profile](exlusion-of-portrait-from-pid-profile.md)
 28. [PID Attributes for Cross-Border Identity Matching](002-identity-matching-and-subject-linking.md)
 29. [Extend TS11 credential metadata with OpenID Federation Trust Marks](openid-federation-trust-marks.md)
+30. [Signal the attestation legal category using ETSI TS 119 472-1](attestation-legal-category.md)
 <!--END INDEX-->
 
 ## Supporting analysis
